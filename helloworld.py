@@ -5,8 +5,4 @@
 fname = input("What is your 1st name? ")
 lname = input("What is your 2nd (last) name? ")
 
-print("Your full name is " + fname + " " + lname)
-
-
-
-
+print(f"Your full name is {fname} {lname}")
