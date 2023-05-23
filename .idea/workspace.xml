@@ -4,14 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eca7825-bc49-40a2-baff-2729e361cb97" name="Changes" comment="made first/last (input) name thingy... plus f string">
+    <list default="true" id="8eca7825-bc49-40a2-baff-2729e361cb97" name="Changes" comment="2 ways of printing variables">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter-handle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -59,7 +67,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684829658384</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2 ways of printing variables">
+      <created>1684829913577</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684829913577</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2 ways of printing variables">
+      <created>1684829966462</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684829966462</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2 ways of printing variables">
+      <created>1684830003374</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684830003374</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="made first/last (input) name thingy... plus f string" />
-    <option name="LAST_COMMIT_MESSAGE" value="made first/last (input) name thingy... plus f string" />
+    <MESSAGE value="2 ways of printing variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 ways of printing variables" />
   </component>
 </project>
