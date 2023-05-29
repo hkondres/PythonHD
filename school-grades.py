@@ -8,10 +8,19 @@
 
 score = input(f"Please enter your test score (1-100): ")
 score = int(score)
+
 if score >= 90:
-    print("Your grade is A ")
+    age = int(input("What is your age? "))
+    if age < 10:
+        print("You are amazing and you deserve an A+ !!! ")
+    else:
+        print("Your grade is A ")
 elif score >= 80:
-    print("Your grade is B ")
+    age = int(input("What is your age? "))
+    if age < 10:
+        print("You are really great for your age and you deserve a B+ !!! ")
+    else:
+        print("Your grade is B ")
 elif score >= 70:
     print("Your grade is C ")
 elif score >= 60:
