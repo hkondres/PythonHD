@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eca7825-bc49-40a2-baff-2729e361cb97" name="Changes" comment="added new program twitter-handle.py">
-      <change afterPath="$PROJECT_DIR$/fizzbuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for-loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/school-grades.py" beforeDir="false" afterPath="$PROJECT_DIR$/school-grades.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/fizzbuzz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +30,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/fizzbuzz.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/tim/main.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/fizzbuzz.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,14 +46,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
-  }
-}</component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="fizzbuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonHD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fizzbuzz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fizzbuzz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8eca7825-bc49-40a2-baff-2729e361cb97" name="Changes" comment="" />
@@ -62,6 +96,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684759780635</updated>
+      <workItem from="1685325017297" duration="209000" />
+      <workItem from="1685325278723" duration="2704000" />
+      <workItem from="1685394610106" duration="984000" />
     </task>
     <task id="LOCAL-00001" summary="made first/last (input) name thingy... plus f string">
       <created>1684829642208</created>
@@ -108,6 +145,9 @@
     <option name="localTasksCounter" value="7" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -118,11 +158,37 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="made first/last (input) name thingy... plus f string" />
     <MESSAGE value="2 ways of printing variables" />
     <MESSAGE value="added new program twitter-handle.py" />
     <option name="LAST_COMMIT_MESSAGE" value="added new program twitter-handle.py" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1872" height="254" key="GridCell.Tab.0.bottom" timestamp="1685395522116">
+      <screen x="0" y="32" width="1920" height="996" />
+    </state>
+    <state width="1872" height="254" key="GridCell.Tab.0.bottom/0.32.1920.996@0.32.1920.996" timestamp="1685395522116" />
+    <state width="1872" height="254" key="GridCell.Tab.0.center" timestamp="1685395522116">
+      <screen x="0" y="32" width="1920" height="996" />
+    </state>
+    <state width="1872" height="254" key="GridCell.Tab.0.center/0.32.1920.996@0.32.1920.996" timestamp="1685395522116" />
+    <state width="1872" height="254" key="GridCell.Tab.0.left" timestamp="1685395522116">
+      <screen x="0" y="32" width="1920" height="996" />
+    </state>
+    <state width="1872" height="254" key="GridCell.Tab.0.left/0.32.1920.996@0.32.1920.996" timestamp="1685395522116" />
+    <state width="1872" height="254" key="GridCell.Tab.0.right" timestamp="1685395522116">
+      <screen x="0" y="32" width="1920" height="996" />
+    </state>
+    <state width="1872" height="254" key="GridCell.Tab.0.right/0.32.1920.996@0.32.1920.996" timestamp="1685395522116" />
+    <state x="479" y="165" width="962" height="744" key="SettingsEditor" timestamp="1685325808453">
+      <screen x="0" y="32" width="1920" height="996" />
+    </state>
+    <state x="479" y="165" width="962" height="744" key="SettingsEditor/0.32.1920.996@0.32.1920.996" timestamp="1685325808453" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonHD$fizzbuzz.coverage" NAME="fizzbuzz Coverage Results" MODIFIED="1685395522109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
