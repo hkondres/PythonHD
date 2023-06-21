@@ -24,18 +24,25 @@
 
 import random
 
+print("Hello and welcome to my game...")
 # Ask the user to input a list of words
-words = input("Enter a list of words separated by commas: ").split(",")
+list = ["Hacker", "Bounty", "Random"]
+#words = input("Enter a list of words separated by commas: ").split(",")
 
 # Choose a random word from the list
-chosen_word = random.choice(words)
+secret_word = random.choice(list)
 
 # Ask the user to guess the letter position
-letter_position = int(input(f"Pick the position of a letter in the word '{chosen_word}' and I will tell you which letter it is : "))
-
+#letter_position = int(input(f"Pick the position of a letter in the word '{chosen_word}' and I will tell you which letter it is : "))
+guess = input("Guess a letter: ").lower()
+print(guess)
 # Get the letter at the chosen position
-letter = chosen_word[letter_position - 1]
-
+#letter = chosen_word[letter_position - 1]
+for letter in secret_word:
+    if letter == guess:
+        print("Right!")
+    else:
+        print("Wrong!")
 # Print the letter and its position in the word
-print(f"The letter '{letter}' is at position {letter_position} in the word '{chosen_word}'.")
+#print(f"The letter '{letter}' is at position {letter_position} in the word '{chosen_word}'.")
 
